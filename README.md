@@ -1,7 +1,7 @@
 # 스터디 제목
 
 - 기간: 2024.04.03 ~ 06.26
-- 시간 및 장소: 매주 수요일 오후 20시 (온라인)
+- 시간 및 장소: 매주 수요일 오후 21시 (온라인)
 
 <details>
 <summary>스터디원: 9명</summary>
@@ -58,6 +58,10 @@
 
 > [!TIP]
 > [레퍼런스 링크 모음](references/links.md)
+> 
+> [정오표](https://docs.google.com/document/d/1_XOxviys7_dhajVv74Lu1_pWmnOEwhLS7PvXzyUb8kQ/edit)
+> 
+> [‘시스템 설계 청사진 완벽 가이드’ 포스터](https://tinyurl.com/4mwdh72c)
 
 ## 진행방식
 
